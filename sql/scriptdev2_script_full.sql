@@ -7,7 +7,7 @@ INSERT INTO sd2_db_version (version) VALUES ('ScriptDev2 (for MaNGOS 11590+) ');
 
 --
 -- Below contains data for table `script_texts` mainly used in C++ parts.
--- valid entries for table are between -1000000 and -1999999
+-- valid entries for table are between -1000000 and -2999999
 --
 
 TRUNCATE script_texts;

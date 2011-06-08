@@ -11,7 +11,7 @@ extern std::string  strSD2Version;                          //version info: data
 #define TEXT_SOURCE_RANGE -1000000                          //the amount of entries each text source has available
 
 #define TEXT_SOURCE_TEXT_START      TEXT_SOURCE_RANGE
-#define TEXT_SOURCE_TEXT_END        TEXT_SOURCE_RANGE*2 + 1
+#define TEXT_SOURCE_TEXT_END        TEXT_SOURCE_RANGE*3 + 1
 
 #define TEXT_SOURCE_CUSTOM_START    TEXT_SOURCE_RANGE*2
 #define TEXT_SOURCE_CUSTOM_END      TEXT_SOURCE_RANGE*3 + 1
